@@ -1,6 +1,6 @@
-# WL client
-Meower WL client is a client for Meower Vanilla.
-It adds the purple theme.
+# DARK client
+Meower DARK client is a client for Meower Vanilla.
+It adds the pure dark theme.
 That's all.
 
 # Meower Vanilla
