@@ -1,3 +1,8 @@
+# WL client
+Meower WL client is a client for Meower Vanilla.
+It adds the purple theme.
+That's all.
+
 # Meower Vanilla
 Meower-Vanilla is the original, Scratch-based client for Meower. It runs on TurboWarp and CloudLink Turbo. This version of the Meower Client is intended for use on Desktops and Laptops, and used as a reference for other clients.
 
